@@ -1,0 +1,25 @@
+{
+  "name": "benwahonline",
+  "version": "1.0.0",
+  "description": "This project provides a small demonstration site for tracking missing and abducted persons in Tanzania. The frontend is built with **React**, **Tailwind CSS**, and **Bootstrap** using Vite. A simple Express backend serves API endpoints and the static frontend build.",
+  "homepage": "https://github.com/benwahonline/benwahonline#readme",
+  "bugs": {
+    "url": "https://github.com/benwahonline/benwahonline/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benwahonline/benwahonline.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "authMiddleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "path-to-regexp": "^8.2.0"
+  }
+}
